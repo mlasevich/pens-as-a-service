@@ -34,7 +34,7 @@
                     {
                         url: "https://images.unsplash.com/photo-1518674660708-0e2c0473e68e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&fm=jpg&w=400&fit=max",
                         name: "Old Brass",
-                        price: "$249/month"
+                        price: "$249.99/month"
                     },
                     {
                         url: "https://images.unsplash.com/photo-1511285605577-4d62fb50d2f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&fm=jpg&w=400&fit=max",
